@@ -1,0 +1,2 @@
+# My-Portfolio
+Portfolio is a curated collection of projects and work samples that showcase a developer's skills in both front-end and back-end technologies. It typically includes responsive web applications, code repositories (often on GitHub), a resume, and a personal bio. The portfolio demonstrates proficiency in languages and frameworks like JavaScript, HTML, CSS, React, Node.js, Express, and databases like MongoDB or SQL. It's designed to highlight the developer's ability to build complete, end-to-end solutions and solve real-world problems.

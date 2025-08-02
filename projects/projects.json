@@ -32,13 +32,13 @@
     }
   },
    {
-    "name": "Food-Corner",
-    "desc": "Food Corner is a vibrant and user-friendly website dedicated.",
+    "name": "srpackaging",
+    "desc": "Smart, reliable, and customized packaging solutions for every industry need.",
     "image": "Foodcorner",
     "category": "",
     "links": {
-      "view": "https://sanjeev9090.github.io/foodcorner12/",
-      "code": "https://github.com/sanjeev9090/foodcorner12"
+      "view": "https://srpackaging-oemiig8v5-sanjeevs-projects-9da751ff.vercel.app/",
+      "code": "https://srpackaging.vercel.app"
     }
   }
 ]

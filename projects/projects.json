@@ -1,4 +1,27 @@
 [
+     {
+    "name": "srpackaging",
+    "desc": "customized packaging solutions for every industry need.",
+    "image": "Foodcorner",
+    "category": "",
+    "links": {
+      "view": "https://srpackaging.vercel.app",
+      "code": "https://github.com/sanjeev9090/srpackaging"
+    }
+  },
+
+
+    {
+    "name": "Coza-Store",
+    "desc": "An eCommerce website is an online store offering fashion items for men, women.",
+    "image": "Coza-Store",
+    "category": "Coza-Store",
+    "links": {
+      "view": "https://sanjeev9090.github.io/COZA-STORE/",
+      "code": "https://github.com/sanjeev9090/COZA-STORE"
+    }
+  },
+
   {
     "name": "Creative-Agency",
     "desc": "We are a creative agency specializing in branding, digital marketing.",
@@ -10,35 +33,15 @@
     }
   },
   
-  
-  {
-    "name": "Coza-Store",
-    "desc": "An eCommerce website is an online store offering fashion items for men, women.",
-    "image": "Coza-Store",
-    "category": "Coza-Store",
-    "links": {
-      "view": "https://sanjeev9090.github.io/COZA-STORE/",
-      "code": "https://github.com/sanjeev9090/COZA-STORE"
-    }
-  },
+
    {
     "name": "Organic-Food",
-    "desc": "Sourced from certified organic farms,our products healthy and sustainable farming.",
+    "desc": "Sourced from certified organic farms,our products healthy and sustainable.",
     "image": "Organic-Food",
     "category": "Organic-Food",
     "links": {
       "view": "https://sanjeev9090.github.io/OrganicFood/",
       "code": "https://github.com/sanjeev9090/OrganicFood"
-    }
-  },
-   {
-    "name": "srpackaging",
-    "desc": "Smart, reliable, and customized packaging solutions for every industry need.",
-    "image": "Foodcorner",
-    "category": "",
-    "links": {
-      "view": "https://srpackaging-oemiig8v5-sanjeevs-projects-9da751ff.vercel.app/",
-      "code": "https://srpackaging.vercel.app"
     }
   }
 ]
